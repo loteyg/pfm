@@ -1,0 +1,62 @@
+table td, table th {
+    border: 2px solid lightgray;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+#tableCon{
+    overflow: auto;
+}
+#submit_req fieldset {
+    margin: 10px;
+    min-width: 0;
+    padding: 20px;
+    border: 1px solid lightgrey;
+    margin: 10px;
+}
+#submit_req legend{
+    color: grey;
+    width: auto;
+}
+#submit_req label {
+    width: 100%;
+}
+.submit-request {
+    width: 50%;
+    margin: 0 auto;
+}
+select, input {
+    min-width: 50%;
+}
+.submit_req_common {
+    margin-bottom: 18px;
+}
+.val_errors p {
+    color: #FF0000;
+    font-size: 13px;
+}
+.success_msg > p {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+.submit_leg_sec{
+    margin: 25px 0;
+}
+.submit_leg_common {
+    margin-bottom: 18px;
+}
+.content-wrapper.py-3{
+    min-height: 500px;
+}
+* {
+.border-radius(0) !important;
+}
+.form-control{
+    width: auto;
+}
+.section_div {
+    margin-bottom: 15px;
+}
+#fields > h3 {
+    margin-bottom: 50px;
+}
